@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+  - SVProgressHUD (2.2.2)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Nimble
+  - Quick
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Nimble
+    - Quick
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 7c9c175f5c7cbc29231b252452cad5a4a1275c46
+
+COCOAPODS: 1.5.3
